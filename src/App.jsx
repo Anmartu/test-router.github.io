@@ -36,6 +36,7 @@ function App() {
         <li> <Link to={'/'}> Home </Link></li>
         <li> <Link to={'/CollectionDetail'}> CollectionDetail </Link></li>
         <li> <Link to={'/ProjectDetail'}> ProjectDetail </Link></li>
+        <li> <Link to={'/ProjectDetail'}> ProjectDetail </Link></li>
         {/* {arr.map(col => (
       <li key={col}><Link to={`/${col}`}>{col}</Link></li>))} */}
       </ul>
