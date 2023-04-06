@@ -1,7 +1,7 @@
 {
   "routes": [
     { "src": "/", "dest": "/" },
-    { "src": "/Collections", "dest": "/Collections" },
-    { "src": "/Projects", "dest": "/Projects" }
+    { "src": "/CollectionDetail", "dest": "/CollectionDetail" },
+    { "src": "/ProjectDetail", "dest": "/ProjectDetail" }
   ]
 }
